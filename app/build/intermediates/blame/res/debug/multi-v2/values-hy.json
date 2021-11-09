@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/tensorflow/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml",
+            "outputFile": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml",
             "map": [
                 {
                     "source": "/Users/ogawatakeshishi/.gradle/caches/transforms-3/ec8502a66f47e53642e4c7b31f685bba/transformed/core-1.1.0/res/values-hy/values-hy.xml",

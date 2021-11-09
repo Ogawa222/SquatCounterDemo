@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/tensorflow/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/Users/ogawatakeshishi/.gradle/caches/transforms-3/d01e6e9599dd2e43dbc0bd358dafd04b/transformed/appcompat-1.1.0/res/values-pt-rBR/values-pt-rBR.xml",
