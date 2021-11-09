@@ -229,7 +229,10 @@ class Posenet(
       var maxRow = 0
       var maxCol = 0
       for (row in 0 until height) {
-        for (col in 0 until width) {
+        /** ここから改修 */
+        // ここで推論の幅を狭くできる？ TensorFlowLiteでは9x9x17のヒートマップ画像を重ねているらしい
+        for (col in (width/9 * 2) until (width/9 * 7)) {
+          /** ここまで */
           if (heatmaps[0][row][col][keypoint] > maxVal) {
             maxVal = heatmaps[0][row][col][keypoint]
             maxRow = row
