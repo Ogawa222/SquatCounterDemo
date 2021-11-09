@@ -569,6 +569,47 @@ class PosenetActivity :
       paint
     )
 
+    /** ここから追加実装   */
+    // 推論が行われる範囲を表示、なぜかPosenet.ktの width/9 * 2 と 1/18 のズレがある
+
+    // 推論の対象外範囲を半透明の白に
+    paint.color = Color.argb(0xff * 6 / 10, 0xff, 0xff, 0xff)
+    // 全体を塗る
+    canvas.drawRect(
+      Rect(
+        left,
+        top,
+        (right/18 * 3),
+        bottom
+      ),
+      paint
+    )
+    canvas.drawRect(
+      Rect(
+        (right/18 * 15),
+        top,
+        right,
+        bottom
+      ),
+      paint
+    )
+    canvas.drawLine(
+      (right/18 * 3).toFloat(),
+      top.toFloat(),
+      (right/18 * 3).toFloat(),
+      bottom.toFloat(),
+      paint
+    )
+    canvas.drawLine(
+      (right/18 * 15).toFloat(),
+      top.toFloat(),
+      (right/18 * 15).toFloat(),
+      bottom.toFloat(),
+      paint
+    )
+    paint.setColor(Color.BLUE)
+    /** ここまで*/
+
     val widthRatio = screenWidth.toFloat() / MODEL_WIDTH
     val heightRatio = screenHeight.toFloat() / MODEL_HEIGHT
 
