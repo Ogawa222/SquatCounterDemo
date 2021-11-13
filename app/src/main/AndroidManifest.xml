@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.tensorflow.lite.examples.posenet">
+    package="org.tensorflow.lite.examples.squatCounter">
 
   <uses-permission android:name="android.permission.CAMERA" />
 
@@ -18,12 +18,12 @@
       android:theme="@style/AppTheme.Posenet">
 
     <activity
-        android:name=".TestActivity"
+        android:name="org.tensorflow.lite.examples.squatCounter.TestActivity"
         android:label="@string/tfe_pn_app_name"
         android:exported="true">
     </activity>
 
-    <activity android:name=".CameraActivity" android:exported="true" >
+    <activity android:name="org.tensorflow.lite.examples.squatCounter.CameraActivity" android:exported="true" >
       <intent-filter>
         <action android:name="android.intent.action.MAIN"/>
         <category android:name="android.intent.category.LAUNCHER"/>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="org.squat.counter.examples.posenet"
+=======
+    package="org.tensorflow.lite.examples.squatCounter"
+>>>>>>> 9603d47b93ebc2af68fe3b9f845f0f8108369d11
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -24,12 +28,12 @@
         android:testOnly="true"
         android:theme="@style/AppTheme.Posenet" >
         <activity
-            android:name="org.tensorflow.lite.examples.posenet.TestActivity"
+            android:name="org.tensorflow.lite.examples.squatCounter.TestActivity"
             android:exported="true"
             android:label="@string/tfe_pn_app_name" >
         </activity>
         <activity
-            android:name="org.tensorflow.lite.examples.posenet.CameraActivity"
+            android:name="org.tensorflow.lite.examples.squatCounter.CameraActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

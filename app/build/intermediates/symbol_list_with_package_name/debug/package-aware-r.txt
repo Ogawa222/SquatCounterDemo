@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 org.squat.counter.examples.posenet
+=======
+org.tensorflow.lite.examples.squatCounter
+>>>>>>> 9603d47b93ebc2af68fe3b9f845f0f8108369d11
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom

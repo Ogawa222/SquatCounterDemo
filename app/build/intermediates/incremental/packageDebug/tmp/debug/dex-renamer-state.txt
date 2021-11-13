@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Sat Nov 13 03:24:18 JST 2021
+=======
+#Sat Nov 13 20:40:26 JST 2021
+>>>>>>> 9603d47b93ebc2af68fe3b9f845f0f8108369d11
 base.2=/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex
 path.2=classes_0.dex
 base.1=/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex

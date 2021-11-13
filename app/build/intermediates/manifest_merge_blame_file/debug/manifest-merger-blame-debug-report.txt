@@ -1,6 +1,10 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
 3    package="org.squat.counter.examples.posenet"
+=======
+3    package="org.tensorflow.lite.examples.squatCounter"
+>>>>>>> 9603d47b93ebc2af68fe3b9f845f0f8108369d11
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -42,8 +46,8 @@
 25-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:18:7-46
 26        <activity
 26-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:20:5-24:16
-27            android:name="org.tensorflow.lite.examples.posenet.TestActivity"
-27-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:21:9-37
+27            android:name="org.tensorflow.lite.examples.squatCounter.TestActivity"
+27-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:21:9-78
 28            android:exported="true"
 28-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:23:9-32
 29            android:label="@string/tfe_pn_app_name" >
@@ -51,10 +55,10 @@
 30        </activity>
 31        <activity
 31-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:5-31:16
-32            android:name="org.tensorflow.lite.examples.posenet.CameraActivity"
-32-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:15-45
+32            android:name="org.tensorflow.lite.examples.squatCounter.CameraActivity"
+32-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:15-86
 33            android:exported="true" >
-33-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:46-69
+33-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:87-110
 34            <intent-filter>
 34-->/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:27:7-30:23
 35                <action android:name="android.intent.action.MAIN" />
