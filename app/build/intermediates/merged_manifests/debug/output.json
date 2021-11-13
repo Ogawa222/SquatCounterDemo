@@ -1,10 +1,6 @@
 {
   "version": 1,
-<<<<<<< HEAD
-  "applicationId": "org.squat.counter.examples.posenet",
-=======
   "applicationId": "org.tensorflow.lite.examples.squatCounter",
->>>>>>> 9603d47b93ebc2af68fe3b9f845f0f8108369d11
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -23,11 +19,7 @@
       },
       "path": "AndroidManifest.xml",
       "properties": {
-<<<<<<< HEAD
-        "packageId": "org.squat.counter.examples.posenet",
-=======
         "packageId": "org.tensorflow.lite.examples.squatCounter",
->>>>>>> 9603d47b93ebc2af68fe3b9f845f0f8108369d11
         "split": "",
         "minSdkVersion": "21"
       }

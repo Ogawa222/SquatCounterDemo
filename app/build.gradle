@@ -8,11 +8,7 @@ android {
   compileSdkVersion 29
   buildToolsVersion "29.0.0"
   defaultConfig {
-<<<<<<< HEAD
-    applicationId "org.squat.counter.examples.posenet"
-=======
     applicationId "org.tensorflow.lite.examples.squatCounter"
->>>>>>> 9603d47b93ebc2af68fe3b9f845f0f8108369d11
     minSdkVersion 21
     targetSdkVersion 23
     versionCode 1
