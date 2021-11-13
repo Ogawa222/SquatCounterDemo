@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "org.tensorflow.lite.examples.posenet",
+  "applicationId": "org.tensorflow.lite.examples.squatCounter",
   "variantType": "BASE_APK",
   "elements": []
 }

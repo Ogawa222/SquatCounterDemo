@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "org.tensorflow.lite.examples.posenet",
+  "applicationId": "org.tensorflow.lite.examples.squatCounter",
   "variantName": "debug",
   "elements": [
     {

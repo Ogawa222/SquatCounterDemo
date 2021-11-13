@@ -1,2 +1,2 @@
-org/tensorflow/lite/examples/posenet/BuildConfig.java
- org.tensorflow.lite.examples.posenet.BuildConfig
+org/tensorflow/lite/examples/squatCounter/BuildConfig.java
+ org.tensorflow.lite.examples.squatCounter.BuildConfig

@@ -8,12 +8,12 @@
         "source": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/res/drawable-xxhdpi/tfl2_logo_dark.png"
     },
     {
-        "merged": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/build/intermediates/res/merged/debug/layout_tfe_pn_activity_test.xml.flat",
         "source": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/res/layout/tfe_pn_activity_test.xml"
+    },
+    {
+        "merged": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_action_info.png.flat",

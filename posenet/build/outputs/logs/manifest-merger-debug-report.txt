@@ -8,7 +8,7 @@ INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatC
 INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/posenet/src/main/AndroidManifest.xml:1:1-6:12
 INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/posenet/src/main/AndroidManifest.xml:1:1-6:12
 	package
-		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/posenet/src/main/AndroidManifest.xml:2:3-53
+		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/posenet/src/main/AndroidManifest.xml:2:3-58
 		INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/posenet/src/main/AndroidManifest.xml
 		INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/posenet/src/main/AndroidManifest.xml
 	android:versionName

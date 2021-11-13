@@ -33,7 +33,7 @@ INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatC
 INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:2:1-35:12
 INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:3:5-56
 		INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -150,20 +150,20 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ogaw
 		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:13:7-33
 	android:theme
 		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:18:7-46
-activity#org.tensorflow.lite.examples.posenet.TestActivity
+activity#org.tensorflow.lite.examples.squatCounter.TestActivity
 ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:20:5-24:16
 	android:label
 		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:22:9-48
 	android:exported
 		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:23:9-32
 	android:name
-		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:21:9-37
-activity#org.tensorflow.lite.examples.posenet.CameraActivity
+		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:21:9-78
+activity#org.tensorflow.lite.examples.squatCounter.CameraActivity
 ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:5-31:16
 	android:exported
-		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:46-69
+		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:87-110
 	android:name
-		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:15-45
+		ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:26:15-86
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/ogawatakeshishi/Dropbox/Mac/Desktop/android_projects/SquatCounterDemo/app/src/main/AndroidManifest.xml:27:7-30:23
 action#android.intent.action.MAIN
